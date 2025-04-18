@@ -7,10 +7,10 @@
 #dobro= num*2
 #print("O dobro de {} é {}".format(num, dobro))
 
-#nota1 = float(input("Digite sua primeira nota:"))
-#nota2 = float(input("Digite sua segunda nota:"))
-#media = (nota1 + nota2)/2
-#print(media)
+nota1 = float(input("Digite sua primeira nota:"))
+nota2 = float(input("Digite sua segunda nota:"))
+media = (nota1 + nota2)/2
+print(media)
 
 metragem= float(input("Digita a medida em metros: "))
 cent = metragem*100
