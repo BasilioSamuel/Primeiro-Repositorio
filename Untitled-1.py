@@ -12,10 +12,10 @@
 #media = (nota1 + nota2)/2
 #print(media)
 
-#metragem= float(input("Digita a medida em metros: "))
-#cent = metragem*100
-#mili = metragem*1000
-#print("A conversão em centimetros é {} e em milímetros é:{}".format(cent, mili))
+metragem= float(input("Digita a medida em metros: "))
+cent = metragem*100
+mili = metragem*1000
+print("A conversão em centimetros é {} e em milímetros é:{}".format(cent, mili))
 
 tab= int(input("Escolha o número pra exibir sua tabuada: "))
 n1=1
